@@ -1,0 +1,10 @@
+Get result: 1 - конструктор
+Get result: 3 - кукла
+Get result: 3 - кукла
+Get result: 2 - робот
+Get result: 2 - робот
+Get result: 3 - кукла
+Get result: 3 - кукла
+Get result: 3 - кукла
+Get result: 1 - конструктор
+Get result: 2 - робот
